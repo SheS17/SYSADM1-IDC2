@@ -133,8 +133,8 @@ Identified Problems:
 
 -   
 
-![](vertopal_d27bb325841f497d91710e4c6cd1bb9d/media/image4.png){width="7.027083333333334in"
-height="3.9055555555555554in"}
+![image](https://github.com/user-attachments/assets/7de5e78e-98bd-477d-8e65-8e20304babad)
+
 
   ------------------------------------------------------------------------------
   Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
