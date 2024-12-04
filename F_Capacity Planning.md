@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 16db6510f2c04d86b7127b5d1b89e03e |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero, Aaron  | DATE PERFORMED:        | /50      |
-| Joshua G. Sese                   | 11/28/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/76913fcc-8510-41f3-ba48-c7cbd6638c6c)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -25,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_16db6510f2c04d86b7127b5d1b89e03e/media/image2.webp){width="5.049305555555556in"
-height="3.8229166666666665in"}
+![image](https://github.com/user-attachments/assets/a4efb08c-913d-4b1c-863a-d5d0cba38b4f)
+
 
 **Identified Problems:**
 
@@ -142,10 +130,9 @@ height="3.8229166666666665in"}
 
     \- Requires regular updates and monitoring.
 
-    **The Solution:**
-
-![](vertopal_16db6510f2c04d86b7127b5d1b89e03e/media/image3.png){width="7.0256944444444445in"
-height="3.361111111111111in"}
+  **The Solution:**
+  
+![image](https://github.com/user-attachments/assets/efc3e563-b833-4085-85d2-4c83b9ac4289)
 
 Cost
 
