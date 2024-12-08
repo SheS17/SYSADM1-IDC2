@@ -1,5 +1,9 @@
-![image](https://github.com/user-attachments/assets/23c6f9c5-0ac5-4d00-b257-7c3f67647ee4)
-![image](https://github.com/user-attachments/assets/4cd6dd09-623e-4842-85ce-c85ae5a75661)
-![image](https://github.com/user-attachments/assets/4ffbe04f-8b5f-46a1-9fea-bd40fd6d3943)
-![image](https://github.com/user-attachments/assets/becab137-d16d-40a1-a19a-49ba6ecc3268)
-![image](https://github.com/user-attachments/assets/4c3b3ba5-daef-4f5c-aaad-73938c8aef0b)
+---
+title: Midterms Exam
+---
+
+![image](https://github.com/user-attachments/assets/bf5e17d8-5c9a-4001-90f4-3e6ef1d6074b)
+![image](https://github.com/user-attachments/assets/3a9ef295-b274-4b80-a21e-3987efa38895)
+![image](https://github.com/user-attachments/assets/df176e44-e940-4073-9548-ede4271598d5)
+![image](https://github.com/user-attachments/assets/d1b7367e-2eb3-41ba-8da5-a90de9222b7c)
+![image](https://github.com/user-attachments/assets/a72d435f-80ec-42ad-a35e-d4719b44cd5d)
