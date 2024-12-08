@@ -1,6 +1,6 @@
 ---
-title: Finals Activity
+title: Midterms Activity
 ---
 
-![](vertopal_8af6238e2c654d008253575e47889751/media/image1.jpeg){width="5.2858650481189855in"
-height="8.1875in"}
+![image](https://github.com/user-attachments/assets/00ae233a-4600-4ff5-bd8b-74bc7379c874)
+
