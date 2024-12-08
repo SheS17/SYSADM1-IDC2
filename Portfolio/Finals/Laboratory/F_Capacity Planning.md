@@ -1,24 +1,11 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| d27bb325841f497d91710e4c6cd1bb9d |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero, Aaron  | DATE PERFORMED:        | /50      |
-| Joshua G. Sese                   | 11/28/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/4ed86b51-a7db-4e14-b1c6-c7456d4b188d)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
-## Part 1. A Simulated Dataset for Capacity Planning Exercise {#part-1.-a-simulated-dataset-for-capacity-planning-exercise .list-paragraph}
+## Part 1. A Simulated Dataset for Capacity Planning Exercise
 
-![](vertopal_d27bb325841f497d91710e4c6cd1bb9d/media/image2.png){width="4.749564741907261in"
-height="2.4791666666666665in"}**Scenario:** A mid-sized e-commerce
+**Scenario:** A mid-sized e-commerce
 website is expecting a significant surge in traffic due to an upcoming
 holiday sale.
 
