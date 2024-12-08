@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 32484fb98d2043fb987d7ef462b5c0fa |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero         | DATE PERFORMED:        |          |
-|                                  | 10/23/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 10/26/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/96fdb504-e6fa-4770-8a45-95581fb72a5e)
+
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
