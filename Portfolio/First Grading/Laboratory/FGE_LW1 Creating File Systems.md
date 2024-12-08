@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| f0634e7c2dc2439b8d6f8ab3607f024d |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero         | DATE PERFORMED:        |  40/50   |
-|                                  | 8/22/24                |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 8/22/24                |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/af58d630-1472-496a-9e7f-bea984f854b7)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
@@ -108,88 +95,11 @@
 
 Part B. Create a log report structure
 
-+----------------------------------+-----------------------------------+
-| Name: Shekinah Sotero            | Date of Performed Report: August  |
-|                                  | 22, 2024                          |
-+==================================+===================================+
-| Section: IDC2                    | Reported To: Ma'am Catherine      |
-|                                  | Reyes                             |
-+----------------------------------+-----------------------------------+
-| **Part A: Windows File System    |                                   |
-| Documentation**                  |                                   |
-|                                  |                                   |
-| **Structure:**                   |                                   |
-+----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/d3620f96-10b2-4ed3-b5c7-423224531233)
+![image](https://github.com/user-attachments/assets/a88d48c1-cc2f-41f1-8967-ffebe0839c76)
+![image](https://github.com/user-attachments/assets/271347a5-cd03-4683-af39-951fe869a8e7)
+![image](https://github.com/user-attachments/assets/60c9de41-3bd4-4d8f-a117-e7ddc4471640)
+![image](https://github.com/user-attachments/assets/519d6667-66bb-4cb4-b1f9-1f597527035b)
+![image](https://github.com/user-attachments/assets/24c2691a-f73d-456a-a60d-45973b5cd39b)
+![image](https://github.com/user-attachments/assets/d64f37c2-c00c-4c81-b8cb-ededae437f11)
 
-+-----------------------------------------------------------------------+
-| 1,2&3.                                                                |
-|                                                                       |
-| ![](vertopal_f0634e7c                                                 |
-| 2dc2439b8d6f8ab3607f024d/media/image2.png){width="6.47045384951881in" |
-| height="1.4841305774278215in"}                                        |
-+=======================================================================+
-| 4\.                                                                   |
-| ![](vertopal_f0634e7c2                                                |
-| dc2439b8d6f8ab3607f024d/media/image3.png){width="6.604166666666667in" |
-| height="1.9251826334208224in"}                                        |
-+-----------------------------------------------------------------------+
-| 5,6&7.                                                                |
-|                                                                       |
-| ![](vertopal_f0634e7c2                                                |
-| dc2439b8d6f8ab3607f024d/media/image4.png){width="5.375694444444444in" |
-| height="3.6569444444444446in"}                                        |
-+-----------------------------------------------------------------------+
-| 8\.                                                                   |
-| ![](vertopal_f0634e7c2                                                |
-| dc2439b8d6f8ab3607f024d/media/image5.png){width="6.480109361329834in" |
-| height="1.8826006124234471in"}                                        |
-+-----------------------------------------------------------------------+
-| 9&10.                                                                 |
-|                                                                       |
-| ![](vertopal_f0634e7c2                                                |
-| dc2439b8d6f8ab3607f024d/media/image6.png){width="6.666149387576553in" |
-| height="1.6317869641294838in"}                                        |
-+-----------------------------------------------------------------------+
-| 11\.                                                                  |
-|                                                                       |
-| ![](vertopal_f0634e7c2                                                |
-| dc2439b8d6f8ab3607f024d/media/image7.png){width="6.557735126859143in" |
-| height="2.345982064741907in"}                                         |
-|                                                                       |
-| +---------------+---------------+---------------+----------------+    |
-| | Text!         | Images        | Audio![       | Video          |    |
-| | [](vertopal_f | ![](vertopal_ | ](vertopal_f0 |                |    |
-| | 0634e7c2dc243 | f0634e7c2dc24 | 634e7c2dc2439 | ![](verto      |    |
-| | 9b8d6f8ab3607 | 39b8d6f8ab360 | b8d6f8ab3607f | pal_f0634e7c2d |    |
-| | f024d/media/i | 7f024d/media/ | 024d/media/im | c2439b8d6f8ab3 |    |
-| | mage8.png){wi | image9.png){w | age10.png){wi | 607f024d/media |    |
-| | dth="1.519206 | idth="1.46814 | dth="1.516310 | /image11.png){ |    |
-| | 0367454068in" | 7419072616in" | 1487314086in" | width="1.62965 |    |
-| | he            | heig          | heig          | 44181977253in" |    |
-| | ight="0.97501 | ht="1.1764009 | ht="1.1581266 | h              |    |
-| | 312335958in"} | 186351707in"} | 404199475in"} | eight="0.83399 |    |
-| |               |               |               | 9343832021in"} |    |
-| +===============+===============+===============+================+    |
-| +---------------+---------------+---------------+----------------+    |
-+-----------------------------------------------------------------------+
-| 12&13.                                                                |
-| ![](vertopal_f0634e7c2d                                               |
-| c2439b8d6f8ab3607f024d/media/image12.png){width="2.547655293088364in" |
-| height="3.6067924321959755in"}                                        |
-+-----------------------------------------------------------------------+
-| 14\. There is no Sharing Tab in my computer however, you can see the  |
-| tasks being done in security tab (Permission).                        |
-|                                                                       |
-| ![](vertopal_f0634e7c2dc                                              |
-| 2439b8d6f8ab3607f024d/media/image13.png){width="6.6042082239720035in" |
-| height="4.068646106736658in"}                                         |
-+-----------------------------------------------------------------------+
-| 15\.                                                                  |
-| ![](vertopal_f0634e7c2d                                               |
-| c2439b8d6f8ab3607f024d/media/image14.png){width="6.490488845144357in" |
-| height="0.3750524934383202in"}                                        |
-|                                                                       |
-| ![](vertopal_f0634e7c2d                                               |
-| c2439b8d6f8ab3607f024d/media/image15.png){width="7.027083333333334in" |
-| height="1.8125in"}                                                    |
-+-----------------------------------------------------------------------+
