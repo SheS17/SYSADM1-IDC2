@@ -2,8 +2,5 @@
 title: Finals Activity
 ---
 
-![](vertopal_69f7f11afa194d0baf0acc0a633730ad/media/image1.jpeg){width="6.320274496937882in"
-height="8.083333333333334in"}
-
-![](vertopal_69f7f11afa194d0baf0acc0a633730ad/media/image2.jpeg){width="6.5in"
-height="8.043055555555556in"}
+![image](https://github.com/user-attachments/assets/c888a8b1-fc8b-492f-943e-7c0246abc6fc)
+![image](https://github.com/user-attachments/assets/7f150ac8-8f15-4220-9986-c1e4a36a7482)
