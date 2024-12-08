@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 96bc21b0c45e48c2a70de87c62030138 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah Sotero            | DATE PERFORMED:        |          |
-|                                  | 09/12/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09/12/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/2eb73d4d-0116-4f17-ae55-44723c3ac6cc)
+
 
 # SYSADM1 -- Managing Services in Linux
 
