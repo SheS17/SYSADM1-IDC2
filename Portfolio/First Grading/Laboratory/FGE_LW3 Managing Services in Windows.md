@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| a8066ba6e199493a9a926ac227f1ee87 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah Sotero            | DATE PERFORMED:        |          |
-|                                  | 08/29/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 08/29/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/e23f27c0-036c-4a90-814a-2ba863cb14ef)
+
 
 # SYSADM1 -- Managing Services in Windows
 
